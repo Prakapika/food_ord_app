@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Tandoori Chicken",
+        "price": 250.0,
+        "no_of_plates": 7
+    },
+    {
+        "id": 2,
+        "name": "Ice Cream",
+        "price": 40.0,
+        "no_of_plates": 25
+    },
+    {
+        "id": 3,
+        "name": "Lassi",
+        "price": 25.0,
+        "no_of_plates": 33
+    },
+    {
+        "id": 4,
+        "name": "Vegan Burger",
+        "price": 320.0,
+        "no_of_plates": 15
+    },
+    {
+        "id": 5,
+        "name": "Truffle Cake",
+        "price": 900.0,
+        "no_of_plates": 15
+    }
+]
